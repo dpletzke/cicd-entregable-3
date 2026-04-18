@@ -1,6 +1,6 @@
 # app/calculadora.py
 
-AUTOR = "Grupo 1!!"
+AUTOR = "Grupo 1-3"
 
 
 def sumar(a, b):
