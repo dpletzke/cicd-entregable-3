@@ -1,23 +1,23 @@
 # virtual envs
-    venv/
-    env/
+venv/
+env/
 
-    # python
-    *.pyc
-    *.pyo
-    *.pyd
-    __pycache__/
+# python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
 
-    # pytest
-    .pytest_cache/
-    pytestdebug.log
+# pytest
+.pytest_cache/
+pytestdebug.log
 
-    # coverage
-    .coverage
-    htmlcov/
-    coverage.xml
-    report.html
-    acceptance_coverage.xml
+# coverage
+.coverage
+htmlcov/
+coverage.xml
+report.html
+acceptance_coverage.xml
 
-    # IDE
-    .vscode/
+# IDE
+.vscode/
