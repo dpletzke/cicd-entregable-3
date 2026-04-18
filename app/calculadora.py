@@ -1,7 +1,6 @@
 # app/calculadora.py
 
-AUTOR = "Grupo 1"  # IMPORTANTE: Reemplaza con tu nombre completo (debe coincidir con el nombre que uses en cualquier otro identificador del proyecto. Sugerencia: Usuario de correo de EAFIT)
-
+AUTOR = "Grupo 1"
 
 def sumar(a, b):
     return a + b
