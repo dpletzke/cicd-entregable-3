@@ -1,6 +1,6 @@
 # app/calculadora.py
 
-AUTOR = "Daniel Pletzke, Jehison Cifuentes, Patricia Arango, Alexander Pelaez "  # IMPORTANTE: Reemplaza con tu nombre completo (debe coincidir con el nombre que uses en cualquier otro identificador del proyecto. Sugerencia: Usuario de correo de EAFIT)
+AUTOR = "Daniel Pletzke, Jehison Cifuentes, Patricia Arango, Alexander Pelaez!"  # IMPORTANTE: Reemplaza con tu nombre completo (debe coincidir con el nombre que uses en cualquier otro identificador del proyecto. Sugerencia: Usuario de correo de EAFIT)
 
 
 def sumar(a, b):
