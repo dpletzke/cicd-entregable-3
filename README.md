@@ -1,3 +1,6 @@
+http://calculadora-staging-alb-858371557.us-east-1.elb.amazonaws.com/
+http://calculadora-production-alb-990706456.us-east-1.elb.amazonaws.com/
+
 1.  Explica brevemente el flujo de trabajo **nuevo** completo que implementaste con **Terraform** (commit -> CI -> Build/Push Imagen -> Deploy TF Staging -> Update Service Staging -> Test Staging -> Deploy TF Prod -> Update Service Prod -> Smoke Test Prod). Sé *específico* sobre *qué artefacto se mueve, qué hace cada job principal, y qué valida cada tipo de prueba*.
 - Commit: Se realiza un commit en el repositorio de código, lo que desencadena el pipeline de CI/CD.
 - CI: El pipeline de CI/CD se activa, ejecutando los jobs definidos en el archivo de configuración del pipeline.
