@@ -1,4 +1,5 @@
 """Flask application for the calculator web interface."""
+
 import os
 from flask import Flask, render_template, request
 from .calculadora import sumar, restar, multiplicar, dividir
