@@ -38,6 +38,7 @@ def index():
 
 @app.route("/health")
 def health():
+    """Return an OK response for infrastructure health checks."""
     return "OK", 200
 
 
