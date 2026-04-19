@@ -36,7 +36,7 @@ def index():
     return render_template("index.html", resultado=resultado)
 
 
-@app.route("/health")
+@app.route("/health", methods=["GET"])
 def health():
     """Return an OK response for infrastructure health checks."""
     return "OK", 200
